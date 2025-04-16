@@ -45,6 +45,10 @@ These elements work in harmony to create a dynamic and immersive experience that
 | Repo | Description |
 |------|-------------|
 | [`control-app`](https://github.com/Neural-Kinetic-Sculpture/control-app) | Mobile app to control configurations, view EEG recordings, and connect via WIFI |
+| [`signal-filter`](https://github.com/Neural-Kinetic-Sculpture/signal-filter) | EEG filter with H-Infinity, low/high band pass filtering to filter live EEG signals |
+| [`motor-control`](https://github.com/Neural-Kinetic-Sculpture/motor-control) | Motor control to raise or lower panels in the sculpture |
+| [`LED-control`](https://github.com/Neural-Kinetic-Sculpture/LED-control) | LED control to change colors and brightness of LEDs in the sculpture |
+| [`ESP-NOW`](https://github.com/Neural-Kinetic-Sculpture/ESP-NOW) | WIFI/Bluetooth module to connect and send signals with the mobile app |
 
 ---
 
@@ -66,10 +70,11 @@ We're collaborating with dance companies and artistic institutions to showcase t
 
 This project is being developed by:
 - Katrina Viray (https://www.linkedin.com/in/katrina-viray/)
-- ...
-
-Want to contribute? Open an issue or fork a repo and submit a pull request!
-
+- Carolina Mims
+- Letzy Mota
+- Ashley Nguyen
+- Karina Montero
+-
 ---
 
 ## 📬 Contact
