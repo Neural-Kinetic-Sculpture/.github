@@ -74,7 +74,7 @@ This project is being developed by:
 - Letzy Mota
 - Ashley Nguyen
 - Karina Montero
--
+- Melina Moore
 ---
 
 ## 📬 Contact
